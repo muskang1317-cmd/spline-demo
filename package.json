@@ -11,8 +11,8 @@
     "next": "13.4.7",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "@splinetool/react-spline": "^1.1.12",
-    "@splinetool/runtime": "^1.1.6",
-    "framer-motion": "^10.12.16"
+    "@splinetool/react-spline": "1.0.3",
+    "@splinetool/runtime": "1.0.57",
+    "framer-motion": "10.12.16"
   }
 }
